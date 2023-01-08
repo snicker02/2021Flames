@@ -1,0 +1,57 @@
+<jwf-flame version="JWildfire V7.00 (07.08.2021) Steam Edition" size="1280 720" center="0.0 0.0" scale="70.0" rotate="0.0" filter="0.75" filter_type="GLOBAL_SHARPENING" filter_kernel="MITCHELL_SMOOTH" filter_indicator="0" filter_sharpness="4.0" filter_low_density="0.025" oversample="1" ai_post_denoiser="OIDN" ai_post_denoiser_only_for_cpu="1" post_optix_denoiser_blend="0.11111" quality="10.0" background_type="GRADIENT_2X2_C" background_ul="0.0 0.0 0.0" background_ur="0.0 0.0 0.0" background_ll="0.0 0.0 0.0" background_lr="0.0 0.0 0.0" background_cc="0.0 0.0 0.0" bg_transparency="0" fg_opacity="1.0" brightness="4.0" saturation="1.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="113.2" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_roll="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" low_density_brightness="0.0" balancing_red="1.0" balancing_green="1.0" balancing_blue="1.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" resolution_profile="1280x720" quality_profile="10" antialias_amount="0.0" antialias_radius="0.0" motion_blur_length="19" motion_blur_timestep="0.05" motion_blur_decay="0.03" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="47" frame_count="100" fps="30" post_blur_radius="0" post_blur_fade="0.95" post_blur_falloff="2.0" zbuffer_scale="1.0" zbuffer_bias="0.0" zbuffer_filename="PRE_ZBUF" mixer_mode="OFF">
+  <layer weight="1.0" density="1.0" visible="1" smooth_gradient="0">
+    <xform weight="50.5" color_type="DIFFUSION" color="0.0" symmetry="0.0" material="0.0" material_speed="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" mod_hue="0.0" mod_hue_speed="0.0" sym_bg6="1.0" sym_bg6_fx_priority="0" sym_bg6_stepx="0.0" sym_bg6_stepy="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0"/>
+    <xform weight="0.5" color_type="DIFFUSION" color="0.0" symmetry="0.0" material="0.0" material_speed="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" mod_hue="0.0" mod_hue_speed="0.0" line="1.0" line_fx_priority="0" line_delta="0.0" line_phi="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.7492872213326893 -0.6998704594048359 0.6998704594048359 0.7492872213326893 0.23455069744339746 -0.09657969894728125" chaos="1.0 1.0"/>
+    <palette count="256" format="RGB">
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFF    </palette>
+  </layer>
+  <layer weight="1.0" density="1.0" visible="1" smooth_gradient="0">
+    <xform weight="50.5" color_type="DIFFUSION" color="0.0" symmetry="0.0" material="0.0" material_speed="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" mod_hue="0.0" mod_hue_speed="0.0" sym_bg6="1.0" sym_bg6_fx_priority="0" sym_bg6_stepx="0.0" sym_bg6_stepy="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0"/>
+    <xform weight="0.5" color_type="DIFFUSION" color="0.0" symmetry="0.0" material="0.0" material_speed="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" mod_hue="0.0" mod_hue_speed="0.0" line="1.0" line_fx_priority="0" line_delta="0.0" line_phi="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.7492872213326893 -0.6998704594048359 0.6998704594048359 0.7492872213326893 0.23455069744339746 -0.09657969894728125" chaos="1.0 1.0"/>
+    <finalxform weight="0.0" color_type="NONE" color="0.0" symmetry="1.0" material="0.0" material_speed="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" mod_hue="0.0" mod_hue_speed="0.0" linear3D="1.0" linear3D_fx_priority="0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.9935340044761355 -0.11353493713220697 0.11353493713220697 0.9935340044761355 0.03449274962402932 0.607072393382911" chaos="1.0 1.0" xyPostCoeff00Curve_enabled="true" xyPostCoeff00Curve_view_xmin="-7" xyPostCoeff00Curve_view_xmax="89" xyPostCoeff00Curve_view_ymin="0.989654278042687" xyPostCoeff00Curve_view_ymax="1.0009405201779376" xyPostCoeff00Curve_interpolation="SPLINE" xyPostCoeff00Curve_selected_idx="0" xyPostCoeff00Curve_locked="false" xyPostCoeff00Curve_point_count="5" xyPostCoeff00Curve_x0="1" xyPostCoeff00Curve_y0="1.0" xyPostCoeff00Curve_x1="33" xyPostCoeff00Curve_y1="0.9963995414567824" xyPostCoeff00Curve_x2="58" xyPostCoeff00Curve_y2="0.9905947982206246" xyPostCoeff00Curve_x3="81" xyPostCoeff00Curve_y3="0.9935340044761355" xyPostCoeff00Curve_x4="100" xyPostCoeff00Curve_y4="1.0" xyPostCoeff01Curve_enabled="true" xyPostCoeff01Curve_view_xmin="-7" xyPostCoeff01Curve_view_xmax="89" xyPostCoeff01Curve_view_ymin="-0.1385712469803614" xyPostCoeff01Curve_view_ymax="0.16186447119749178" xyPostCoeff01Curve_interpolation="SPLINE" xyPostCoeff01Curve_selected_idx="0" xyPostCoeff01Curve_locked="false" xyPostCoeff01Curve_point_count="5" xyPostCoeff01Curve_x0="1" xyPostCoeff01Curve_y0="0.0" xyPostCoeff01Curve_x1="33" xyPostCoeff01Curve_y1="-0.08478180102306147" xyPostCoeff01Curve_x2="58" xyPostCoeff01Curve_y2="0.13682816134933734" xyPostCoeff01Curve_x3="81" xyPostCoeff01Curve_y3="-0.11353493713220697" xyPostCoeff01Curve_x4="100" xyPostCoeff01Curve_y4="0.0" xyPostCoeff10Curve_enabled="true" xyPostCoeff10Curve_view_xmin="-7" xyPostCoeff10Curve_view_xmax="89" xyPostCoeff10Curve_view_ymin="-0.16186447119749178" xyPostCoeff10Curve_view_ymax="0.1385712469803614" xyPostCoeff10Curve_interpolation="SPLINE" xyPostCoeff10Curve_selected_idx="0" xyPostCoeff10Curve_locked="false" xyPostCoeff10Curve_point_count="5" xyPostCoeff10Curve_x0="1" xyPostCoeff10Curve_y0="0.0" xyPostCoeff10Curve_x1="33" xyPostCoeff10Curve_y1="0.08478180102306147" xyPostCoeff10Curve_x2="58" xyPostCoeff10Curve_y2="-0.13682816134933734" xyPostCoeff10Curve_x3="81" xyPostCoeff10Curve_y3="0.11353493713220697" xyPostCoeff10Curve_x4="100" xyPostCoeff10Curve_y4="0.0" xyPostCoeff11Curve_enabled="true" xyPostCoeff11Curve_view_xmin="-7" xyPostCoeff11Curve_view_xmax="89" xyPostCoeff11Curve_view_ymin="0.989654278042687" xyPostCoeff11Curve_view_ymax="1.0009405201779376" xyPostCoeff11Curve_interpolation="SPLINE" xyPostCoeff11Curve_selected_idx="0" xyPostCoeff11Curve_locked="false" xyPostCoeff11Curve_point_count="5" xyPostCoeff11Curve_x0="1" xyPostCoeff11Curve_y0="1.0" xyPostCoeff11Curve_x1="33" xyPostCoeff11Curve_y1="0.9963995414567824" xyPostCoeff11Curve_x2="58" xyPostCoeff11Curve_y2="0.9905947982206246" xyPostCoeff11Curve_x3="81" xyPostCoeff11Curve_y3="0.9935340044761355" xyPostCoeff11Curve_x4="100" xyPostCoeff11Curve_y4="1.0" xyPostCoeff20Curve_enabled="true" xyPostCoeff20Curve_view_xmin="-7" xyPostCoeff20Curve_view_xmax="89" xyPostCoeff20Curve_view_ymin="-0.13452172353371325" xyPostCoeff20Curve_view_ymax="1.4797389588708456" xyPostCoeff20Curve_interpolation="SPLINE" xyPostCoeff20Curve_selected_idx="0" xyPostCoeff20Curve_locked="false" xyPostCoeff20Curve_point_count="5" xyPostCoeff20Curve_x0="1" xyPostCoeff20Curve_y0="0.0" xyPostCoeff20Curve_x1="33" xyPostCoeff20Curve_y1="1.3452172353371323" xyPostCoeff20Curve_x2="58" xyPostCoeff20Curve_y2="0.03449274962402932" xyPostCoeff20Curve_x3="81" xyPostCoeff20Curve_y3="0.03449274962402932" xyPostCoeff20Curve_x4="100" xyPostCoeff20Curve_y4="0.0" xyPostCoeff21Curve_enabled="true" xyPostCoeff21Curve_view_xmin="-7" xyPostCoeff21Curve_view_xmax="89" xyPostCoeff21Curve_view_ymin="-0.0607072393382911" xyPostCoeff21Curve_view_ymax="0.6677796327212021" xyPostCoeff21Curve_interpolation="SPLINE" xyPostCoeff21Curve_selected_idx="0" xyPostCoeff21Curve_locked="false" xyPostCoeff21Curve_point_count="5" xyPostCoeff21Curve_x0="1" xyPostCoeff21Curve_y0="0.0" xyPostCoeff21Curve_x1="33" xyPostCoeff21Curve_y1="0.18626084796975675" xyPostCoeff21Curve_x2="58" xyPostCoeff21Curve_y2="0.607072393382911" xyPostCoeff21Curve_x3="81" xyPostCoeff21Curve_y3="0.607072393382911" xyPostCoeff21Curve_x4="100" xyPostCoeff21Curve_y4="0.0"/>
+    <palette count="256" format="RGB">
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFF    </palette>
+  </layer>
+</jwf-flame>
