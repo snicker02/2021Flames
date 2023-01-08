@@ -1,0 +1,27 @@
+<flame smooth_gradient="0" version="JWildfire V7.00 ALPHA5 (06.06.2021)" size="800 600" center="0.0 0.0" scale="156.8" rotate="0.0" filter="0.75" filter_type="GLOBAL_SHARPENING" filter_kernel="MITCHELL_SMOOTH" filter_indicator="0" filter_sharpness="4.0" filter_low_density="0.025" oversample="1" ai_post_denoiser="OIDN" post_optix_denoiser_blend="0.11111" quality="100.0" background_type="GRADIENT_2X2_C" background_ul="0.0 0.0 0.0" background_ur="0.0 0.0 0.0" background_ll="0.0 0.0 0.0" background_lr="0.0 0.0 0.0" background_cc="0.0 0.0 0.0" bg_transparency="0" fg_opacity="1.0" brightness="24.02" saturation="1.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="220.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_roll="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" low_density_brightness="0.24" balancing_red="1.0" balancing_green="1.0" balancing_blue="1.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" antialias_amount="0.25" antialias_radius="0.5" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" fps="30" post_blur_radius="0" post_blur_fade="0.95" post_blur_falloff="2.0" zbuffer_scale="1.0" zbuffer_bias="0.0" zbuffer_filename="PRE_ZBUF" mixer_mode="OFF">
+  <xform weight="0.5" color_type="DIFFUSION" color="0.13606564946452215" symmetry="0.0" material="0.0" material_speed="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" mod_hue="0.0" mod_hue_speed="0.0" opacity="0.0" post_point_symmetry_wf="1.0" post_point_symmetry_wf_fx_priority="1" post_point_symmetry_wf_centre_x="0.0" post_point_symmetry_wf_centre_y="0.0" post_point_symmetry_wf_order="2" post_point_symmetry_wf_colorshift="0.6960000000000001" flux="0.768" flux_fx_priority="0" flux_spread="1.26" coefs="0.47725747683808906 0.0 0.0 0.47725747683808906 0.0 0.0" chaos="0.0 1.0"/>
+  <xform weight="0.5" color_type="NONE" color="0.07206522129379245" symmetry="1.0" material="0.0" material_speed="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" mod_hue="0.0" mod_hue_speed="0.0" whorl="1.0" whorl_fx_priority="0" whorl_inside="-0.152" whorl_outside="0.07600000000000001" prepost_affine="1.0" prepost_affine_fx_priority="2" prepost_affine_scale_x="1.0" prepost_affine_scale_y="1.0" prepost_affine_scale_z="1.0" prepost_affine_yaw="0.0" prepost_affine_pitch="0.0" prepost_affine_roll="0.0" prepost_affine_move_x="0.22000000000000008" prepost_affine_move_y="-0.128" prepost_affine_move_z="0.0" coefs="-1.0 -1.2246467991473532E-16 1.2246467991473532E-16 -1.0 0.0 0.0" chaos="1.0 0.0"/>
+  <palette count="256" format="RGB">
+5A9C905F9A956E9990788A8063776B57655B474A4F494F4D505E577F857B8B958BA7B3A9
+B1BDB0C5C7BAD7D1C1E9DAC5F0E0BCF5D8BEFCD2C2EFDAC9E0D9C7DFD3C2D9D0BFE6C8AE
+F0D2A5FCEA64FEE577FFFDABF4E8BCE6D9C8E1D5C5DDD3C3D6D4C5D2D1C2C8C9BBBEC3B6
+B3BDB4AFB9B3ADB3B1A7B6B3A0B7B79FBCBAA5BDB9ACB6AEB1B5A4BAB3A3B5B0AAB1B3A8
+ADBAB1AEBCB4B4C1B8BAC3B9BBC6BEBDC4BDC0C3BAC3C0B7C4C3B7D7C4B5DABEADE1BAA9
+D2AD9AC19B88B97E789E6963694C4451433F3A393F373D453A404C5961536F7866A19D91
+BBA795C4C0B7CACABDD1D2C4D6D0C2D3CCC2CECFC1CDCEC1C4C4BABEBAB9AAB5AFA8B3AD
+91AAA77D9FA1709B9C437880305C5C26373E152B3010282C1A2828282C2C3D3E3957483C
+815B4E7D60545C5D4F5762565A77736579785D8685368081366A6B384B4F323D48323A47
+343C4737454B4165615C7972809A9190A9A3A3B4AEA9BEB3B2C4B9CAD1C1CECFC0D9CDBD
+E4C7AEF6BBABDEBE9FDDBDA6D0C9B9D4CDBDD8D1BFD6D0BEDABFACDBB89FE3AD89F7745B
+FB9B5BF6AD9CEFC9B7F9E9D9FEF2DAEDDDCEE6E2D3E1DAD0C8C9B9B9B29D978F7C838777
+4765653B52504147474D574F5F6A5D9493779B9E8BA2B2A8A6B7A6A7B2908FA08D89917F
+6B5E55574F4E3F414D504953805B55A2776AAB7F72957D79887D70515C584449512E3A46
+213C3C1E353B1936341A34331C2D342721362A343D31353C2A433F2F45422C43442C3844
+2A374129313C2A363F2D39453F4C5334494A304943364E484B635662786A8490869C9D9A
+A8B2AAB7B8AABBB9ACCABEA4D4B6A1D6AC94D3A687D79F8ED7AE96CDB59FBDBAB5BDBEB5
+BEC4B6B9C6B4BAC7B3BEC5B8BCC4B9B9BFB3B4BDB4A8B5AEA7B7ADA4B4AA95A89D81978B
+838A7A717F73445E55404F4F42404B594E497D61559F7C67B08A7D9D9D859EA48EA8B0A3
+A9AEA7ACA793B4A08BB2968B9FA39498A193919B938DA19A83A49981A19A699B986C8D92
+5F82813E5B573B49513A3E4A37474937554D407073549F9A548C9B4C737F4248543B414F
+353D4A36464D3E5E594B787D  </palette>
+</flame>
